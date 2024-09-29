@@ -8,6 +8,7 @@ You are welcome to use this project however you would like.
 
 There are 5 states:
 
+
 Patrol
 
 -Patrols between five different locations spread out across the rooms
@@ -15,6 +16,7 @@ Patrol
 -If at any point it sees a broken object, it goes to the Fix Object state
 
 -After 10 seconds, if it doesn’t see any broken objects, it will randomly go to the Sleep or Work state.
+
 
 
 Fix Object
@@ -31,11 +33,15 @@ Fix Object
 
 -----If not entered from the Work state, go to the Patrol state
 
+
+
 Sleep
 
 -Walks to the bed, then waits there for a few seconds before returning to Patrol
 
 -It will not fix broken objects it sees on the way to the bed
+
+
 
 Work
 
@@ -44,6 +50,8 @@ Work
 ---However, if the computer is broken, it will enter the Fix Object state for it. After the fix state, it will return immediately to the Word state instead of the Patrol state.
 
 -It will not fix any other broken objects it sees, only the computer
+
+
 
 Anger
 
