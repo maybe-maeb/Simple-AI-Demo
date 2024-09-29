@@ -4,7 +4,7 @@ ASDF to control what devices are broken
 
 Escape to exit
 
-You are welcome to use this project however you would like.
+You are welcome to use and modify this project however you would like.
 
 There are 5 states:
 
