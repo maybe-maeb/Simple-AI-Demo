@@ -1,4 +1,8 @@
-This is a simple project made in a handful of hours to practice with a state machine, showcasing a person in a house with the player controlling what devices around the house are broken.
+This is a simple project made in a couple hours to practice using a state machine, showcasing a person in a house with the player controlling what devices around the house are broken.
+
+ASDF to control what devices are broken
+
+Escape to exit
 
 You are welcome to use this project however you would like.
 
