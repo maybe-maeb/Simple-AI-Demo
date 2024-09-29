@@ -1,5 +1,7 @@
 This is a simple project made in a couple hours to practice using a state machine, showcasing a person in a house with the player controlling what devices around the house are broken.
 
+A playable version without the project files is available on my itch.io: https://maybe-maeb.itch.io/unity-ai-state-machine-demo
+
 ASDF to control what devices are broken
 
 Escape to exit
